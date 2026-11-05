@@ -19,6 +19,17 @@ focus-pod/   CAD (parametric source + STEP), print files, BOM, assembly guide, r
 night-pod/   coming soon
 ```
 
+## License
+Copyright William Depatie 2026.
+
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2 ([LICENSE](LICENSE)).
+
+You may redistribute and modify this source and make products using it under the terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt). This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
+
+Source location: https://github.com/bluecodesthings/lodestone-project
+
+In plain terms: anyone can build, modify and sell Lodestone pods. If you share or sell a modified version, you must publish your modified source under the same license.
+
 ## Credits
 - iPhone app side builds on [Foqos](https://github.com/awaseem/foqos) (MIT).
 - The concept is inspired by commercial phone-blocking devices such as Brick. This project is independent and not affiliated with any of them.

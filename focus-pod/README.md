@@ -60,7 +60,7 @@ The symbol and corner marks are fixed sketches drawn for the 50 mm size. If you 
 If you use metric bar (e.g. 40 × 6 mm), change `st_w`/`st_t`. Check that the steel corners still clear the screw bosses, or increase `L`.
 
 ## License
-TBD: hardware under CERN-OHL-P-2.0 or CC BY-SA 4.0 (to be chosen before publishing).
+CERN-OHL-S-2.0. See the [project license](../LICENSE). The Foqos-based iPhone app keeps its own MIT license.
 
 ## Credits
 - iPhone app: [Foqos](https://github.com/awaseem/foqos) (MIT license).
