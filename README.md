@@ -11,7 +11,7 @@ A lodestone is a naturally magnetic stone. These are small, heavy, physical pods
 | Pod | Status | What it does |
 |---|---|---|
 | [Focus Pod](focus-pod/) | Design complete, first print pending | A weighted NFC tile (50 × 50 × 15 mm, ~87 g). Tap your iPhone to lock distracting apps; tap again to unlock. |
-| [Night Pod](night-pod/) | Design + firmware complete, first print pending | A bedside Bluetooth beacon (70 × 70 × 40 mm, ~265 g, USB-C). Apps lock automatically when you're in your bedroom at night. |
+| [Night Pod](night-pod/) | Design + firmware complete, first print pending | A bedside Bluetooth beacon with a 12° angled top (70 × 70 × 44 mm, ~260 g, USB-C at the bottom). Apps lock automatically when you're in your bedroom at night. |
 
 ## Repository layout
 ```
